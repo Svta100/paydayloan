@@ -1,0 +1,46 @@
+.btn-lime{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-style: normal;
+    border-style: solid;
+    position: relative;
+    z-index: 10;
+    font-size: 14px;
+    line-height: 49px;
+    font-weight: 500;
+    background: #cddc39;
+    color:#fff;
+    height: 49px;
+    padding: 0px 24px;
+    height: 49px;
+    border-radius: 29px;
+    display: inline-block;
+    text-transform: uppercase;
+    transition: all .8s;
+}
+.btn-purple{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-style: normal;
+    border-style: solid;
+    position: relative;
+    z-index: 10;
+    font-size: 14px;
+    line-height: 49px;
+    font-weight: 500;
+    background: #3E467B;
+    color:#fff;
+    height: 49px;
+    padding: 0px 24px;
+    height: 49px;
+    border-radius: 29px;
+    display: inline-block;
+    text-transform: uppercase;
+    transition: all .8s;
+}
+.btn-lime:hover{
+    background: #3E467B;
+}
+.btn-purple:hover{
+    background: #cddc39;
+}
